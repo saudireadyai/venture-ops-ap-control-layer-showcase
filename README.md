@@ -2,7 +2,7 @@
 
 **Supplier reconciliation. Clearer review.**
 
-[![Venture Ops AP Control Layer — supplier reconciliation, review checkpoints and TypeScript source](https://pe56d.s3.amazonaws.com/o_1k7l9vg89u4o12do16t10kl1csi1a.png)](https://payhip.com/b/GU5Z9)
+[![Venture Ops AP Control Layer — supplier reconciliation, review checkpoints and TypeScript source](https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1k7l9vg89u4o12do16t10kl1csi1a.png)](https://payhip.com/b/GU5Z9)
 
 [**Buy the source edition — USD 99**](https://payhip.com/b/GU5Z9) · [**Explore the synthetic demo**](https://venture-ops-ap-control-candidate-e6amor.v2.appdeploy.ai/) · [Contact](mailto:saudiready.ai@gmail.com)
 
