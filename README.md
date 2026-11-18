@@ -4,7 +4,7 @@
 
 <a href="https://payhip.com/b/GU5Z9"><img src="https://payhip.com/cdn-cgi/image/format=auto/https://pe56d.s3.amazonaws.com/o_1k7l9vg89u4o12do16t10kl1csi1a.png" alt="Venture Ops AP Control Layer — supplier reconciliation and review" width="600"></a>
 
-[**Buy the source edition — USD 99**](https://payhip.com/b/GU5Z9) · [**Explore the synthetic demo**](https://venture-ops-ap-control-candidate-e6amor.v2.appdeploy.ai/) · [Contact](mailto:saudiready.ai@gmail.com)
+[**Buy on Payhip — USD 99**](https://payhip.com/b/GU5Z9) · [**Buy on Gumroad — USD 99**](https://saudiready.gumroad.com/l/ap-control-layer) · [**Explore the synthetic demo**](https://venture-ops-ap-control-candidate-e6amor.v2.appdeploy.ai/) · [Contact](mailto:saudiready.ai@gmail.com)
 
 Turn supplier statements into a reviewable exception queue. Compare statements with an AP ledger, investigate differences, record review decisions and export supporting evidence from an English browser workspace.
 
